@@ -12,3 +12,10 @@ Fortalezas y áreas de oportunidad:
 Expectativas que del bloque:
 
 Que esperamos lograr y nuestros compromisos:
+
+# Propuesta del reto
+Descripción:
+
+Agentes Involucrados:
+
+Plan de trabajo:
