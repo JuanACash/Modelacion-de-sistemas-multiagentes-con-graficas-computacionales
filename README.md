@@ -35,3 +35,12 @@ Arquitectura:
 Componentes:
 
 Plan de trabajo:
+-Creación del Github - Juan Andrés - 1 día
+-Definición Plan de Trabajo - Equipo - 2 días
+-Empezar proyecto Unity - Equipo - 2  días - 12/11 - 14/11
+-Seguir modelaje del Proyecto - Juan Andrés y José Alfredo - 7 días - 15/11 - 21/11
+-Documentación del proyecto - Ivana Banderas - 2 días 20/11 - 21/11
+-Pruebas y correcciones - Wendy - 4 días - 22/11 - 25/11
+-Crear presentaciones - 2 días - Emiliano Durán e Ivana Banderas - 27/11 - 28/11
+-Presentaciones finales - Equipo - 1 día - Última semana
+
