@@ -12,6 +12,7 @@ Fortalezas y áreas de oportunidad:
 - Wendy: Fortalezas: Soy constante y responsable con mis tareas. Áreas de oportunidad: A veces me cuesta expresar mis ideas, por lo que quiero practicar mas la comunicación durante el trabajo en equipo.
 - Emiliano Durán: Una de mis fortalezas es el compromiso y la dedicación seria que le doy a mis proyectos, y que me gusta hacer las cosas bien. Mis areas de oportunidad sería mejorar la procatsinación, pues me gusta hacer bien los trabajos pero muchas veces permito que se me acumulen las tareas o actividades referentes a mis proyecrtos.
 - Ivana Banderas: Soy dedicada a encontrar a un proyecto coherente, con atención al detalle. Esto significa que también tengo que trabajar con la ansiedad que esto conlleva, que en la mayoría de los casos va atado a procastinación. Por otro lado este perfeccionismo me lleva a querer aprender de forma constante.
+- José Alfredo: Fortalezas: Una de mis principales fortalezas es mi habilidad para aportar ideas en el desarrollo del proyecto, así como aportar en la optimización de las ideas ya definidas. Áreas de oportunidad: En ocasiones me puede costar expresar mis ideas y entender las de mis compañeros, por lo que me gustara desarrollar mas esa competencia durante este proyecto.
 
 Expectativas que del bloque:
 Hacer una simulación de un ambiente real utilizando Unity y Sitemas Multi Agentes para así poder crear esta simulación, este caso una que nos pueda ayudar a la detección de infecciones en tomates para evitar perdidas economicas.
