@@ -8,8 +8,10 @@ Conformación de equipo:
 5. Ivana Banderas Elliot A01638966
 
 Fortalezas y áreas de oportunidad:
+- Juan Andrés: Conocimientos basicos de Unity para poder realizar el proyecto
 
 Expectativas que del bloque:
+Hacer una simulación de un ambiente real utilizando Unity y Sitemas Multi Agentes para así poder crear esta simulación, este caso una que nos pueda ayudar a la detección de infecciones en tomates para evitar perdidas economicas.
 
 Que esperamos lograr y nuestros compromisos:
 
