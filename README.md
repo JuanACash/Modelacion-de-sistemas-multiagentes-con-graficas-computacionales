@@ -29,12 +29,12 @@ Agentes Involucrados:
 
 Arquitectura: Deliberativa
 
-Componentes:
+Componentes: PLAN_ACTUAL: Recorrer cosecha, PLAN_ACTUAL: Detectar anomalias, PLAN_ACTUAL: Informar de anomalias.
 - Robot de Poda
 
 Arquitectura: Hibrida
 
-Componentes:
+Componentes: Vector3 posisción anomalias, bool Cortado, Vector3 ZonaExploración, OBJETIVO: CortarAnomalia, OBJETIVO: RecorrerCosecha, PLAN_ACTUAL: IrZonaAnomalia(posZonaAnomalia), PLAN_ACTUAL: CortarAnomalia.
 
 Plan de trabajo:
 - Creación del Github - Juan Andrés - 1 día
