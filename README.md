@@ -23,6 +23,14 @@ Diagnosticamos y evaluar para saber si se tiene que cortar o no (se evalúa un p
 
 Agentes Involucrados:
 - Robot de detección
+
+Arquitectura:
+
+Componentes:
 - Robot de Poda
+
+Arquitectura:
+
+Componentes:
 
 Plan de trabajo:
